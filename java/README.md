@@ -19,3 +19,16 @@ abstract class GenericServlet {
 }
 @enduml
 ```
+#### References
+* [Servlet的本质是什么](https://www.zhihu.com/question/21416727)
+### Tomcat
+Tomcat is primarily a Java servlet container.
+#### References
+* [An introduction to Tomcat servlet interactions](https://www.mulesoft.com/tcat/tomcat-servlet)
+### Spring
+* [Web on Servlet Stack](https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html)
+#### Spring MVC
+Servlets as the Foundation of a Java Web Application, **DispatcherServlet** as the Heart of Spring MVC
+#### References
+* [How Spring Web MVC Really Works](https://stackify.com/spring-mvc/)
+* [How Spring MVC Framework works? How HTTP Request is processed?](https://javarevisited.blogspot.com/2017/06/how-spring-mvc-framework-works-web-flow.html)
