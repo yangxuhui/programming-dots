@@ -1,2 +1,2 @@
 # Concurrent
-![Concurrent.png](/Images/Concurrent.png)
+![Concurrent.png](/images/Concurrent.png)
