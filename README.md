@@ -38,6 +38,7 @@ class App:
     * 显式确保某个类的对象有且仅有一个
 * 实现方式
     * 将构造函数声明为私有成员函数，创建一个静态方法来进行对象的创建
+    * [How to implement a configurable singleton?](https://stackoverflow.com/questions/34642170/how-to-implement-a-configurable-singleton)
 ## Programming Languages
 ### golang
 #### [`init`](https://golang.org/doc/effective_go.html#init)
