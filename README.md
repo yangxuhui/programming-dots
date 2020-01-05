@@ -30,4 +30,14 @@ class App:
 ```
 ## Code Complexity Analysis Tool
 ### python
-#### [wily](https://github.com/tonybaloney/wily) 
+#### [wily](https://github.com/tonybaloney/wily)
+## Design Patterns
+### Creational Patterns
+#### Singleton
+* 应用场景
+    * 显式确保某个类的对象有且仅有一个
+* 实现方式
+    * 将构造函数声明为私有成员函数，创建一个静态方法来进行对象的创建
+## Programming Languages
+### golang
+#### [`init`](https://golang.org/doc/effective_go.html#init)
