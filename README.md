@@ -42,3 +42,14 @@ class App:
 ## Programming Languages
 ### golang
 #### [`init`](https://golang.org/doc/effective_go.html#init)
+## Caches
+### In Memory Caches
+[guava caches](https://github.com/google/guava/wiki/CachesExplained)给出了in-memory cache的典型应用方式 
+* From a CacheLoader
+* From a Callable
+* Inserted Directly
+#### Libraries
+* java
+    * [guava caches](https://github.com/google/guava/wiki/CachesExplained)
+* golang
+    * [Mango Cache](https://github.com/goburrow/cache)
