@@ -53,3 +53,6 @@ class App:
     * [guava caches](https://github.com/google/guava/wiki/CachesExplained)
 * golang
     * [Mango Cache](https://github.com/goburrow/cache)
+## 包管理
+### python
+* [Packaging and distributing projects](https://packaging.python.org/guides/distributing-packages-using-setuptools/)
