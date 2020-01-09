@@ -42,6 +42,8 @@ class App:
 ## Programming Languages
 ### golang
 #### [`init`](https://golang.org/doc/effective_go.html#init)
+### python
+* `@staticmethod` vs `@classmethod`
 ## Caches
 ### In Memory Caches
 [guava caches](https://github.com/google/guava/wiki/CachesExplained)给出了in-memory cache的典型应用方式 
@@ -56,3 +58,23 @@ class App:
 ## 包管理
 ### python
 * [Packaging and distributing projects](https://packaging.python.org/guides/distributing-packages-using-setuptools/)
+## CLIs
+* python
+    * [python-fire](https://github.com/google/python-fire)
+## OOP
+### Object References
+* Reference Variables are not boxes, it's better to think of them as labels attached to objects.
+* Identity, Equality, Aliases
+    * python
+        * `==` means equality
+        * `is` means identity
+* Copies Are Shallow by Default
+### Access Privileges
+> “In Python, there is no way to create private variables like there is with the private modifier in Java.”
+### Static Member
+### Interfaces
+> “An interface seen as a set of methods to fulfill a role is what Smalltalkers called a procotol”
+
+> “Protocols are interfaces, but because they are **informal—defined** only by documentation and conventions—protocols cannot be enforced like formal interfaces can”
+
+> “A protocol may be partially implemented in a particular class, and that’s OK”
