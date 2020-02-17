@@ -78,3 +78,12 @@ class App:
 > “Protocols are interfaces, but because they are **informal—defined** only by documentation and conventions—protocols cannot be enforced like formal interfaces can”
 
 > “A protocol may be partially implemented in a particular class, and that’s OK”
+
+## Clean Code
+### Dependency Injection
+* testable
+### Dependency Inversion
+
+## 容器
+### Docker
+* [Docker 入门教程](https://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html)
