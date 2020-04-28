@@ -1,4 +1,20 @@
 # Programming Dots
+## 分布式系统
+* 什么是分布式系统
+* 为什么需要分布式系统
+    * 通过并行来增加计算能力
+    * 通过备份来增加容错能力
+    * ...
+* 为什么需要学习分布式系统
+    * 解决问题
+    * 不同场景下的技术方案选型
+    * debug
+* 分布式系统的目标: 隐藏分布式带来的复杂度
+    * 让没有任何并发编程和分布式系统经验的程序员也可以使用分布式系统的资源
+* 分布式系统主要的问题
+    * 性能: 水平扩展, Nx servers -> Nx total throughput
+### 典型分布式系统
+* MapReduce
 ## 消息/任务队列
 ### [beanstalkd](https://github.com/beanstalkd/beanstalkd)
 #### Tube
